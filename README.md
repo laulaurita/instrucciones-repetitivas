@@ -1,2 +1,16 @@
-# instrucciones-repetitivas
-programa para calcular la suma de los 100 prmeros numeros 
+# ANALISIS
+
+Variables de entrada N : el numero ingresado para hacer la suma
+
+variables de proceso
+
+suma : el resultado final de la suma de numeros "N" i = la variables ingresa todos los numeros para ser sumados
+
+Variables de salida
+suma : la suma echa
+
+# DISEÑO
+
+![Diagrama de flujo](diagrama.png "diagrama de flujo " )
+
+
